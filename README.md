@@ -1,4 +1,11 @@
 # midterm-cn-java
+# Các công nghệ sử dụng
+- MySQL: quản lí database
+- Thymleaf: định dạng mẫu (template) HTML/XML được sử dụng để xây dựng các ứng dụng web Java.
+- Lombok: giảm thiểu lượng mã lặp đi lặp lại bằng cách tạo ra các phương thức getter, setter, constructor tự động từ các annotation được định nghĩa trong lớp Java
+- Hibernate: ánh xạ các đối tượng Java thành các bảng trong cơ sở dữ liệu.
+- Spring boot web: dễ dàng phát triển web bằng mô hình MVC
+- Spring security: quản lý bảo mật trong ứng dụng web Spring.
 # Giải thích cấu trúc thư mục
 ![image](https://user-images.githubusercontent.com/89689892/230726739-175344d4-8af8-460f-93dc-e3d823cd8904.png)
 - package api: chứa 2 controller để triển khai API để thực hiện các thao tác CRUD trên dữ liệu của sản phẩm, đơn đặt hàng trong ứng dụng. Ngoài ra còn có file sendData.txt chứa các raw json để test api.
@@ -22,6 +29,8 @@
 - B4: Đăng nhập bằng tk admin :
   + username: admin@gmail.com
   + password: 123456
-  Hoặc đăng kí tài khoản mới để đăng nhập
-- B5: sau khi đã đăng nhập có thể thực hiện các chức năng bình thường ở http://localhost:8080/
-  Trang quản trị: http://localhost:8080/admin (chỉ tk admin mới vào được)
+  * Hoặc đăng kí tài khoản mới để đăng nhập
+  * Ngoài ra còn có thể đăng nhập bằng google
+- B5: Hoàn tất
+  + Sau khi đã đăng nhập có thể thực hiện các chức năng bình thường ở http://localhost:8080/
+  + Trang quản trị: http://localhost:8080/admin (chỉ tk admin mới vào được)
