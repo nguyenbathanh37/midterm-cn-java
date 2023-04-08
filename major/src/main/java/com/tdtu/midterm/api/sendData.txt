@@ -1,0 +1,36 @@
+add-update product
+{
+        "id": 5,
+        "name": "Bánh mì mới",
+        "categoryId": 1,
+        "price": 5,
+        "weight": 40,
+        "description": "Bánh mì mới",
+        "imageName": "banhmi1.jpg"
+}
+
+
+
+{
+        "id": 2,
+        "products": [
+            {
+                    "id": 1,
+                    "name": "Bánh mì không",
+                    "categoryId": 1,
+                    "price": 1.0,
+                    "weight": 30.0,
+                    "description": "Bánh mì không",
+                    "imageName": "banhmi1.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Bánh mì thịt",
+                    "categoryId": 1,
+                    "price": 5.0,
+                    "weight": 100.0,
+                    "description": "Bánh mì thịt",
+                    "imageName": "banhmi2.jpg"
+                }
+        ]
+    }
