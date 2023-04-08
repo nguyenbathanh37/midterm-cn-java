@@ -34,3 +34,18 @@
 - B5: Hoàn tất
   + Sau khi đã đăng nhập có thể thực hiện các chức năng bình thường ở http://localhost:8080/
   + Trang quản trị: http://localhost:8080/admin (chỉ tk admin mới vào được)
+# API
+-- PRODUCT SESSION
+- Get all products
+![image](https://user-images.githubusercontent.com/89689892/230730435-37506e99-63b9-4e79-a680-c339aee690f0.png)
+- Add a product:
+![image](https://user-images.githubusercontent.com/89689892/230730842-d112ae3c-2592-4f46-8aa2-3ce85927fbfb.png)
+  + 1 product bánh mì mới đã được thêm
+- Update a product:
+![image](https://user-images.githubusercontent.com/89689892/230730930-77e88405-ec47-4aac-bd01-fb8a6f3f6c21.png)
+  + category của product đã được sửa thành 2
+- Delete a product:
+![image](https://user-images.githubusercontent.com/89689892/230730966-39dc52ce-139f-49d6-861b-ca51bf6d39fa.png)
+  + product có id là 5 đã bị xóa
+-- ORDER SESSION
+
