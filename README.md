@@ -1,4 +1,6 @@
-# midterm-cn-java
+# MIDTERM JAVA
+# ERD
+![image](https://user-images.githubusercontent.com/89689892/230741072-73c7e85a-150d-4677-bcb7-965063a0126f.png)
 # Các công nghệ sử dụng
 - MySQL: quản lí database
 - Thymleaf: định dạng mẫu (template) HTML/XML được sử dụng để xây dựng các ứng dụng web Java.
