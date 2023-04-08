@@ -15,3 +15,13 @@
 - package resource:
   + static: chứa các file css, js, image và imageproduct
   + template: chứa các file html thymleaf
+# Các bước để chạy ứng dụng:
+- B1: Chạy xampp và tạo 1 database dựa trên file sql đã cung cấp ở package mysql
+- B2: Chạy file MajorApplication để khởi tạo web
+- B3: Mở trình duyệt và truy cập vào http://localhost:8080/
+- B4: Đăng nhập bằng tk admin :
+  + username: admin@gmail.com
+  + password: 123456
+  Hoặc đăng kí tài khoản mới để đăng nhập
+- B5: sau khi đã đăng nhập có thể thực hiện các chức năng bình thường ở http://localhost:8080/
+  Trang quản trị: http://localhost:8080/admin (chỉ tk admin mới vào được)
