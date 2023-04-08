@@ -35,7 +35,7 @@
   + Sau khi đã đăng nhập có thể thực hiện các chức năng bình thường ở http://localhost:8080/
   + Trang quản trị: http://localhost:8080/admin (chỉ tk admin mới vào được)
 # API
--- PRODUCT SESSION
+- PRODUCT SESSION
 - Get all products
 ![image](https://user-images.githubusercontent.com/89689892/230730435-37506e99-63b9-4e79-a680-c339aee690f0.png)
 - Add a product:
@@ -47,5 +47,16 @@
 - Delete a product:
 ![image](https://user-images.githubusercontent.com/89689892/230730966-39dc52ce-139f-49d6-861b-ca51bf6d39fa.png)
   + product có id là 5 đã bị xóa
--- ORDER SESSION
+- ORDER SESSION
+- Add a order:
+![image](https://user-images.githubusercontent.com/89689892/230731595-391862c2-46d6-49f0-af3d-95c291e6b318.png)
+  + một order đã được thêm
+- Get all orders
+![image](https://user-images.githubusercontent.com/89689892/230731611-4d5c2f47-fdd0-4814-9893-269e4c3a487a.png)
+- update a order:
+![image](https://user-images.githubusercontent.com/89689892/230731668-ae4ffc25-f82e-4ecc-b8d0-0865b5077d64.png)
+  + order này còn 1 product
+- delete a order:
+![image](https://user-images.githubusercontent.com/89689892/230731712-b42893e6-89f9-429b-bbce-500b47bc966b.png)
+  + order id bằng 1 đã bị xóa
 
